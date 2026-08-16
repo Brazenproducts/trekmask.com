@@ -1,21 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://trekmask.com/</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://trekmask.com/trekmask.com/privacy</loc>
-    <lastmod>2026-07-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url><loc>https://trekmask.com/trekmask-reviewed-2026.html</loc><lastmod>2026-07-14</lastmod></url>
-  <url><loc>https://trekmask.com/trekmask-buying-guide-2026.html</loc><lastmod>2026-07-18</lastmod></url>
-  <url><loc>https://trekmask.com/what-we-look-for-trekmask-2026.html</loc><lastmod>2026-08-04</lastmod></url>
-  <url><loc>https://trekmask.com/trekmask-compared-2026.html</loc><lastmod>2026-08-11</lastmod></url>
-  <url><loc>https://trekmask.com/trekmask-what-buyers-need-2026.html</loc><lastmod>2026-08-14</lastmod></url>
-  <url><loc>https://trekmask.com/truth-about-trekmask-2026.html</loc><lastmod>2026-08-14</lastmod></url>
+  <url><loc>https://trekmask.com/privacy.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://trekmask.com/trekmask-buying-guide-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://trekmask.com/trekmask-compared-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://trekmask.com/trekmask-reviewed-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://trekmask.com/trekmask-what-buyers-need-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://trekmask.com/truth-about-trekmask-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://trekmask.com/what-we-look-for-trekmask-2026.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
 </urlset>
